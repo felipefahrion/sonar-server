@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-flex-plugin-2.5.1.1831.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-csharp-plugin-8.9.0.19135.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-xml-plugin-2.0.1.2020.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-typescript-plugin-2.1.0.4359.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-scm-git-plugin-1.12.0.2034.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-scala-plugin-1.5.0.315.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-go-plugin-1.6.0.719.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-vbnet-plugin-8.9.0.19135.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-java-plugin-6.5.1.22586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-python-plugin-2.13.0.7236.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-css-plugin-1.2.0.1325.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-html-plugin-3.2.0.2082.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-ruby-plugin-1.5.0.315.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-jacoco-plugin-1.1.0.898.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-php-plugin-3.5.0.5655.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-scm-svn-plugin-1.10.0.1917.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-javascript-plugin-6.2.1.12157.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/plugins/sonar-kotlin-plugin-1.5.0.315.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

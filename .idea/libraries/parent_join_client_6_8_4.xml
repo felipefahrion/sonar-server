@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="parent-join-client-6.8.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/parent-join/parent-join-client-6.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="reindex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/reindex/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/reindex/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/reindex/httpcore-4.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/reindex/elasticsearch-ssl-config-6.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/reindex/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/reindex/httpasyncclient-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/reindex/httpcore-nio-4.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/reindex/elasticsearch-rest-client-6.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/reindex/reindex-client-6.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

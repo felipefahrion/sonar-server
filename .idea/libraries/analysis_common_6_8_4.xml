@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="analysis-common-6.8.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/analysis-common/analysis-common-6.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

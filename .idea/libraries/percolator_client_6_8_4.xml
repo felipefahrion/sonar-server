@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="percolator-client-6.8.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/percolator/percolator-client-6.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

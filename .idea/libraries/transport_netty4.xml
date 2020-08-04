@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="transport-netty4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/transport-netty4/transport-netty4-client-6.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/transport-netty4/netty-codec-4.1.32.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/transport-netty4/netty-buffer-4.1.32.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/transport-netty4/netty-resolver-4.1.32.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/transport-netty4/netty-codec-http-4.1.32.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/transport-netty4/netty-common-4.1.32.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/transport-netty4/netty-handler-4.1.32.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/elasticsearch/modules/transport-netty4/netty-transport-4.1.32.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

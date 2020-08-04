@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sonar-scanner-engine-shaded-8.4.1.35646-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scanner/sonar-scanner-engine-shaded-8.4.1.35646-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
